@@ -4,3 +4,7 @@ row3
 row4
 
 from git gui
+
+commit to branch "feature"
+
+second commit for feature
